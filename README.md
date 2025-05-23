@@ -22,7 +22,7 @@ At what percentage?: 100
 How much did you pay for the ship? (e.g., 150m): 50b
 
 Hold or no hold? yes or no: no
-
+<br><br>
 --- INPUTS ---
 
 Hypernet List Price: 100b
@@ -42,5 +42,5 @@ Ship Cost: 50b
 Hold?: no
 
 --------------
-
+<br>
 No hold: Profit is 17.65b
