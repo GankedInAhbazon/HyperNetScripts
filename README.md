@@ -4,9 +4,8 @@ From your downloads folder, right-click and click "Run with PowerShell" on the s
 
 Enter the desired values for your HyperNet and check out your profits.
 
+**EXAMPLE OUTPUT**
 
-
-EXAMPLE OUTPUT
 
 Hypernet List Price? (e.g., 1.5b): 100b
 
