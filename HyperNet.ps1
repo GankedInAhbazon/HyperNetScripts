@@ -24,7 +24,7 @@
 function HyperNet {
     try {
         $HypernetListRaw = Read-Host "Hypernet List Price? (e.g., 1.5b)"
-        $NumberOfNodesRaw = Read-Host "How many nodes for this hypernet? 8, 18, 48, or 512?"
+        $NumberOfNodesRaw = Read-Host "How many nodes for this hypernet? 8, 16, 48, or 512?"
         $HyperCorePriceRaw = Read-Host "What is the current price of HyperCores? (e.g., 300k)"
         $SelfBuyRaw = Read-Host "How many nodes will you buy?"
         $RebateRaw = Read-Host "How many nodes are you offering for a rebate?"
